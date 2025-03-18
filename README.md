@@ -12,7 +12,8 @@ Follow the installation guide [here](https://minitorch.github.io/install/).
 ## Training
 Visualize training using Streamlit with this command:
 
-```streamlit run app.py -- [module number]
+```
+streamlit run app.py -- [module number]
 ```
 This project also implemented a version of LeNet on MNIST: a classic convolutional neural network (CNN) for digit recognition, and for a 1D conv for NLP sentiment classification.
 
